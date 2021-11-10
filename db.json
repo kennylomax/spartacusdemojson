@@ -1,8 +1,16 @@
 {
-  "posts": [
+  "vouchers": [
     {
       "id": 1,
-      "title": "hello"
+      "code": "vouch1"
+    },
+     {
+      "id": 2,
+      "code": "vouch2"
+    },
+     {
+      "id": 3,
+      "code": "vouch3"
     }
   ],
   "profile": {
